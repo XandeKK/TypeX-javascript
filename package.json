@@ -1,0 +1,25 @@
+{
+  "name": "typex",
+  "version": "0.0.1",
+  "description": "Application for HQ typeset, whether manga, manhwa, manhua or comic.",
+  "main": "app/main/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XandeKK/TypeX.git"
+  },
+  "author": "Alexandre dos Santos Alves",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/XandeKK/TypeX/issues"
+  },
+  "homepage": "https://github.com/XandeKK/TypeX#readme",
+  "devDependencies": {
+    "electron": "^28.2.3"
+  },
+  "dependencies": {
+    "electron-store": "^8.1.0"
+  }
+}
